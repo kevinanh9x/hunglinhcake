@@ -1,0 +1,10 @@
+{
+    "header": {
+        "hello": "Hello",
+        "name": "Vu Dang Khoa",
+        "changePassword": "Change Password",
+        "changeTheme": "Change Theme",
+        "changeLanguage": "Change Language",
+        "logout": "Log Out"
+    }
+}

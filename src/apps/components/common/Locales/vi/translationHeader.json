@@ -1,0 +1,10 @@
+{
+    "header": {
+        "hello": "Xin chào",
+        "name": "Vũ Đăng Khoa",
+        "changePassword": "Đổi mật khẩu",
+        "changeTheme": "Đổi màu giao diện",
+        "changeLanguage": "Đổi ngôn ngữ",
+        "logout": "Đăng xuất"
+    }
+}

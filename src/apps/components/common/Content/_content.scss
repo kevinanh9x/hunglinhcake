@@ -1,0 +1,37 @@
+.ant {
+  &-layout-content {
+    background: var(--primary-color-content);
+    padding: 10px 45px 0 45px;
+  }
+}
+
+.breadcrumb {
+  padding-bottom: 10px;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+    
+@media screen and (min-width:1000px) {
+  .content {
+    flex-wrap: nowrap;
+  }
+  .content__left {
+    flex-basis: 500px;
+    order: 3;
+  }
+  .content__right {
+    flex-basis: 600px;
+    order: 5;
+  }
+}
+
+.text_mau{
+  margin: 0 auto;
+  text-align: center;
+}

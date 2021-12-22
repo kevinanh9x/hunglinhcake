@@ -1,0 +1,58 @@
+{
+  "new_product": [
+    {
+      "id": 1,
+      "title": "Bánh kem sinh nhật 7 màu",
+      "price_old": 89.000,
+      "price_new": 79.000,
+      "image1": "https://banhngot.tkweb89.com/wp-content/uploads/2021/03/shop_06-300x300-1.jpg",
+      "image2": "https://banhngot.tkweb89.com/wp-content/uploads/2021/03/home_07_slider_03-300x300-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Bánh cupcake vani",
+      "price_old": 40.000,
+      "price_new": 35.000,
+      "image1": "https://banhngot.tkweb89.com/wp-content/uploads/2021/03/Untitled-16-300x300-1.png",
+      "image2": "https://banhngot.tkweb89.com/wp-content/uploads/2021/03/img-cake-5-300x300-1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bánh cupcake vani hoa đường đỏ",
+      "price_old": 0,
+      "price_new": 40.000,
+      "image1": "https://banhngot.tkweb89.com/wp-content/uploads/2021/03/cake-pink-300x300-1-1.png",
+      "image2": "https://banhngot.tkweb89.com/wp-content/uploads/2021/03/img-cake-5-300x300-1-2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bánh kem sinh nhật",
+      "price_old": 89.000,
+      "price_new": 79.000,
+      "image1": "https://banhngot.tkweb89.com/wp-content/uploads/2021/03/shop_06-300x300-1.jpg",
+      "image2": "https://banhngot.tkweb89.com/wp-content/uploads/2021/03/home_07_slider_03-300x300-1.jpg"
+    }
+
+  ],
+  "banner": [
+    {
+      "id": 1,
+      "image": "https://banhmyonline.com/image/cache/catalog/slider/slide-banhmy-1349x450.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://chacabanhmi.com/wp-content/uploads/2018/08/banner.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://bigcake.vn/files/thanhvien_upload/21/banner_chun_bigcake_3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://vincake.com.vn/admin/slidetruotanh/banner-new-3_88_anhslide.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

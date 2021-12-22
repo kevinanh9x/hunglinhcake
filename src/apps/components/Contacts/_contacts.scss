@@ -1,0 +1,11 @@
+.contacts {
+    display: flex;
+    flex-wrap: wrap;
+
+    .contacts__left {
+      flex-basis: 500px;
+    }
+    .contacts__left {
+      flex-basis: 600px;
+    }
+  }

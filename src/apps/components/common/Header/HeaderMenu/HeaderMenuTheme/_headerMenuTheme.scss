@@ -1,0 +1,30 @@
+.changeTheme {
+    .action__dropdown {
+        margin: 0 10px;
+        display: block;
+    }
+    .btn-changeTheme {
+        width: 100%;
+        border: none;
+        display: flex;
+        &:hover {
+            color: unset;
+            background: var(--primary-hover-color)
+        }
+        &:focus {
+            color: unset;
+        }
+    }
+}
+
+.color {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.ant-menu-vertical {
+    border-right: none;
+}

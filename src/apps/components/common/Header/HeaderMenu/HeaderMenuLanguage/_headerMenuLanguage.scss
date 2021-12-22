@@ -1,0 +1,30 @@
+.changeLanguage {
+    .action__dropdown {
+        margin: 0 10px;
+        display: block;
+    }
+    .btn-changeLanguage {
+        width: 100%;
+        border: none;
+        display: flex;
+        &:hover {
+            color: unset;
+            background: var(--primary-hover-color)
+        }
+        &:focus {
+            color: unset;
+        }
+        .language {
+            width: 30px;
+        }
+    }
+}
+
+.menu__language-select {
+    border: none;
+    outline: none;
+    background: var(--white-color);
+    option {
+        border: none;
+    }
+}
