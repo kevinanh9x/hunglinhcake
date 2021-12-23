@@ -1,11 +1,21 @@
 .contacts {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+}
 
-    .contacts__left {
-      flex-basis: 500px;
-    }
-    .contacts__left {
-      flex-basis: 600px;
-    }
+@media screen and (min-width: 1000px) {
+  .contacts {
+    flex-wrap: nowrap;
   }
+  .contacts__left {
+    flex-basis: 500px;
+    order: 3;
+  }
+  .contacts__right {
+    flex-basis: 600px;
+    order: 5;
+  }
+}
